@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+flask_env/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Project Specific
+data/*.xlsx
+temp_uploads/
+output/*.csv
+output/*.json
+output/*.gz
